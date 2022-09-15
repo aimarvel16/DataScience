@@ -1,0 +1,3 @@
+pip install panel
+pip install hvplot
+pip install pandas
